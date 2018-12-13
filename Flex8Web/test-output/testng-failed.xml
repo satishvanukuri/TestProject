@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Flex8Test.Flex8MemTest">
+        <methods>
+          <include name="Flex8Login"/>
+          <include name="virtualtrainingplans"/>
+          <include name="configBeforeclass"/>
+          <include name="Testimonies"/>
+          <include name="WorkOutVideo"/>
+          <include name="TrainingTemplates"/>
+        </methods>
+      </class> <!-- Flex8Test.Flex8MemTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24272" started-at="2017-06-19T04:46:58Z" finished-at="2017-06-19T04:47:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24272" started-at="2017-06-19T04:46:58Z" finished-at="2017-06-19T04:47:22Z">
+      <class name="Flex8Test.Flex8MemTest">
+        <test-method status="PASS" signature="configBeforeclass()[pri:0, instance:Flex8Test.Flex8MemTest@343f4d3d]" name="configBeforeclass" is-config="true" duration-ms="6220" started-at="2017-06-19T10:16:58Z" finished-at="2017-06-19T10:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeclass -->
+        <test-method status="PASS" signature="Flex8Login()[pri:0, instance:Flex8Test.Flex8MemTest@343f4d3d]" name="Flex8Login" is-config="true" duration-ms="13515" started-at="2017-06-19T10:17:04Z" finished-at="2017-06-19T10:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flex8Login -->
+        <test-method status="PASS" signature="TrainingTemplates()[pri:41, instance:Flex8Test.Flex8MemTest@343f4d3d]" name="TrainingTemplates" duration-ms="2979" started-at="2017-06-19T10:17:18Z" finished-at="2017-06-19T10:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrainingTemplates -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Flex8Test.Flex8MemTest@343f4d3d]" name="Logout" is-config="true" duration-ms="433" started-at="2017-06-19T10:17:21Z" finished-at="2017-06-19T10:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Flex8Test.Flex8MemTest@343f4d3d]" name="close" is-config="true" duration-ms="1111" started-at="2017-06-19T10:17:21Z" finished-at="2017-06-19T10:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Flex8Test.Flex8MemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
